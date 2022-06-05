@@ -1,0 +1,9 @@
+train / validation / test set
+https://app.roboflow.com/image-and-video-analytics/dragonica_calsses/10
+Version 10 : drago_train80_val10_test10
+Generated Jun 5, 2022
+
+blind set
+https://app.roboflow.com/image-and-video-analytics/dragonica_blind_dataset/1
+Version 1 : drago_blind
+Generated Jun 6, 2022

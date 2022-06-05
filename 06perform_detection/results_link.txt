@@ -1,0 +1,11 @@
+hsv_tresholding
+https://mega.nz/file/3w1VSS6R#51oKMwR7KHF3sVcUDbn0ag3F9QUQ3tLg2JmiMQu1yII
+
+cascade_classifier
+https://mega.nz/file/2hdWWRRZ#grHh7P9044QrjzmFlnTdpiKa8me55AYoxBmhb5c8ie4
+
+yolov5
+https://mega.nz/file/24NgiAZL#3M9_B7XN5TpjUe9_peDzL2Bo37Y-sPfeZ-_Pj7ha2Sk
+
+yolov5_blind_dataset
+https://mega.nz/file/7pcAQT4b#49mWnFL1Ch1wwo4NgxfkWDsKjUHP_oumuPb6PeQ2VeQ
